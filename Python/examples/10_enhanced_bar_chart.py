@@ -5,7 +5,7 @@ friends = ["Alice", "Bob", "Charlie", "David", "Emma",
            "Frank", "Grace", "Henry", "Ivy", "Jack",
            "Kate", "Leo", "Mary", "Nick", "Olivia"]
 scores = [85, 92, 78, 95, 88, 76, 90, 82, 87, 91, 
-          79, 84, 93, 80, 86]
+          79, 84, 59, 80, 86]
 
 plt.figure(figsize=(10, 6))
 colors = ['skyblue'] * len(scores) # เริ่มต้นด้วยสีฟ้าอ่อนทั้งหมด
