@@ -560,54 +560,6 @@ for i in range(250):
 
 ---
 
-## 📁 โครงสร้างโปรเจกต์ (Project Structure)
-
-```
-Python/
-├── examples/
-│   ├── 01_basic_math.py
-│   ├── 02_print_basic.py
-│   ├── 03_print_calc.py
-│   ├── 04_variables.py
-│   ├── 05_conditionals.py
-│   ├── 06_lists.py
-│   ├── 07_friends_scores.py
-│   ├── 08_friends_analysis.py
-│   ├── 09_bar_chart.py
-│   ├── 10_enhanced_bar_chart.py
-│   ├── 11_area_rectangle.py
-│   ├── 12_area_triangle.py
-│   ├── 13_area_circle.py
-│   ├── 14_area_circle_graph.py
-│   ├── 15_linear_graph.py
-│   ├── 16_turtle_square.py
-│   ├── 17_turtle_star.py
-│   ├── 18_turtle_spiral.py
-│   └── 19_turtle_shapes.py
-├── images/
-│   ├── 01.png
-│   ├── 02.png
-│   ├── 03.png
-│   ├── 04.png
-│   ├── 05.png
-│   ├── 06.png
-│   ├── 07.png
-│   ├── 08.png
-│   ├── 09.png
-│   ├── 10.png
-│   ├── 11.png
-│   ├── 12.png
-│   ├── 13.png
-│   ├── 14.png
-│   ├── 15.png
-│   ├── 16.png
-│   ├── 17.png
-│   ├── 18.png
-│   └── 19.png
-└── Readme.md
-```
-
----
 
 ## 📝 การคอมเมนต์ (Comments)
 
